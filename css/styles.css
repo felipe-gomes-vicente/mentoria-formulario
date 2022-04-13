@@ -7,3 +7,44 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+body, input, select, textarea {
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  background: #E5E5E5;
+}
+
+body::before {
+  content: '';
+  width: 1440px;
+  height: 436px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  background: #535971;
+
+}
+
+a {
+  text-decoration: none;
+  color: #FFF;
+}
+
+.page {
+  width: 750px;
+  margin: 0 auto;
+ 
+}
+
+nav ul {
+  display: flex;
+  justify-content: end;
+  margin-top: 20px;
+  gap: 24px;
+  list-style: none;
+  font-family: 'Staatliches', sans-serif;
+}
+
