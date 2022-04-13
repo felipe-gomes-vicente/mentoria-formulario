@@ -1,0 +1,9 @@
+/* Google Fonts Typography*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Staatliches&display=swap');
+
+/* HTML5 display-role reset for browsers */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
