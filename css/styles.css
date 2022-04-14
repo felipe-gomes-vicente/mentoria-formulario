@@ -165,6 +165,10 @@ fieldset .col-3 > .input-wrapper:nth-child(1) {
   margin-right: 22px;
 }
 
+input:invalid {
+  border: 1px solid #FF1010;
+}
+
 .form-button {
   height: 160px;
   display: flex;
