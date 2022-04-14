@@ -165,7 +165,31 @@ fieldset .col-3 > .input-wrapper:nth-child(1) {
   margin-right: 22px;
 }
 
+.form-button {
+  height: 160px;
+  display: flex;
+  flex-direction: column;
+  background: #535971;
+}
 
+.form-button button {
+  height: 56px;
+  border: 0;
+  margin: 53px 71px;
+  border-radius: 20px;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 26px;
+  color: #FFF;
+  background: #FF5374;
+  text-transform: uppercase;
+  font-family: 'Staatliches', sans-serif;
+}
+
+.form-button button:hover {
+  color: #6C6A71;
+  cursor: pointer;
+}
 
 footer {
   background: #535971;
