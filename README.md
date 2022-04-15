@@ -14,19 +14,21 @@
 O desafio desse é construír uma página web do zero utilizar o layout do protótipo 
 disponível no figma, fortalecer meu conhecimento de HTML e CSS em aplicar conceitos 
 e o que foi visto nos projetos anteriores do Stage 2 e aulas no Stage 3 sobre construção de um formulário, validação dos campos. 
-Me desafiei em aplicar conceitos na pagina web barra de naveação e rodapé, que originalmente não tem no protótipo do figma.
+Desafeei-me em aplicar conceitos na pagina web barra de navegação e rodapé, que originalmente não tem no protótipo do figma.
 
 Acesse a página do projeto: [Clique Aqui](https://felipe-gomes-vicente.github.io/mentoria-formulario/)
 
 O que foi feito:
 
-- Me desafei barra de navegação e rodapé;
+- Desafeei-me ao criar a barra de navegação e rodapé;
 - Agrupando campos com fieldset e legend;
 - Formatando o campo de texto;
 - Validando campos e submetendo formulários;
 - Posição dos elementos na tela;
 - Importar arquivo de CSS externo no projeto;
 - Aplicando fontes(tipografia) customizadas no arquivo do CSS e iniciando o CSS externo;
+- Validação dos campos com CSS;
+- Variáveis CSS;
 - Trabalhando com cores e fontes;
 - Alinhando e posicionando textos e elementos;
 - Aplicando os espaçamentos;
