@@ -1,90 +1,93 @@
-# Mentoria
+# Mentoria Formulário
 
 <div align="center">
-    <img alt="Gif do projeto concluído Mentoria" title="gif" src="./assets/mentoria-first.gif" />
+    <img alt="Gif of the finished project Mentoria Formulário" title="gif" src="./assets/mentoria-first.gif" />
     <br />
-    <p>Continuação do GIF</p>
-    <img alt="Gif do projeto concluído Mentoria" title="gif" src="./assets/mentoria-second.gif" />
+    <p>GIF continuation</p>
+    <img alt="Gif of the finished project Mentoria Formulário" title="gif" src="./assets/mentoria-second.gif" />
 </div>
 
 <br />
 
-### 💻 Mentoria 
+### 💻 Mentoria Formulário
 
-O desafio desse é construír uma página web do zero utilizar o layout do protótipo 
-disponível no figma, fortalecer meu conhecimento de HTML e CSS em aplicar conceitos 
-e o que foi visto nos projetos anteriores do Stage 2 e aulas no Stage 3 sobre construção de um formulário, validação dos campos. 
-Desafeei-me em aplicar conceitos na pagina web barra de navegação e rodapé, que originalmente não tem no protótipo do figma.
+The challenge is to build a web page from scratch using the prototype layout
+available on figma, strengthen my knowledge of HTML and CSS in applying concepts
+and what was observed in previous Stage 2 projects and Stage 3 classes on building 
+a form, validating the fields.
+I challenged myself to apply concepts in the web page navigation bar and footer, 
+which originally did not have in the figma prototype.
 
-Acesse a página do projeto: [Clique Aqui](https://felipe-gomes-vicente.github.io/mentoria-formulario/)
+Watch it in action Deploy: [Click Here](https://felipe-gomes-vicente.github.io/mentoria-formulario/)
 
-O que foi feito:
+What was developed:
 
-- Desafeei-me ao criar a barra de navegação e rodapé;
-- Agrupando campos com fieldset e legend;
-- Formatando o campo de texto;
-- Validando campos e submetendo formulários;
-- Posição dos elementos na tela;
-- Importar arquivo de CSS externo no projeto;
-- Aplicando fontes(tipografia) customizadas no arquivo do CSS e iniciando o CSS externo;
-- Validação dos campos com CSS;
-- Variáveis CSS;
-- Trabalhando com cores e fontes;
-- Alinhando e posicionando textos e elementos;
-- Aplicando os espaçamentos;
-- Bordas e classificações de elementos;
-- O conceito Box Model do CSS;
-- Efeito nos elementos HTML de links e botão;
-- Reset CSS removendo possíveis inconsistências entre navegadores diferentes;
-- Estrutura de sistema de arquivos do projeto separado por pasta;
+- I challenged myself when creating the navigation bar and footer;
+- Grouping fields with fieldset and legend;
+- Formatting the text field;
+- Validating fields and submitting forms;
+- Position of elements on the screen;
+- Import external CSS file into the project;
+- Applying custom fonts (typography) in the CSS file and starting the external CSS;
+- Validation of fields with CSS;
+- CSS variables;
+- Working with colors and fonts;
+- Aligning and positioning texts and elements;
+- Applying the spacing;
+- Borders and element classifications;
+- The CSS Box Model concept;
+- Hover effect on HTML elements of links and buttons;
+- Reset CSS removing possible inconsistencies between different browsers;
+- Project file system structure separated by folder;
 
 
-Aplicado meu conhecimento do Explorer da Rocketseat conceitos de forma prática nesse projeto, com as aulas:
+I applied my knowledge of the Explorer from Rocketseat concepts in a practical way 
+to this project, with the lessons:
 
-- Introdução ao HTML e CSS;
-- Conhecendo novos conceitos de HTML e CSS;
-- Formulários, Validações e Customizações;
+- Introduction to HTML and CSS;
+- Getting to know new concepts of HTML and CSS;
+- Forms, Validations and Customizations;
   
 <br />
 
 - [EXPLORER - Rocketseat](https://www.rocketseat.com.br/explorer)
-- [Figma do Projeto - Mentoria Formulário](https://www.figma.com/file/Nws1KWB7DyXBw8L6wXb9mp?node-id=0:1)
+- [Design Figma - Mentoria Formulário](https://www.figma.com/file/Nws1KWB7DyXBw8L6wXb9mp?node-id=0:1)
 
-## Imagem do Projeto concluído:
- <img alt="Print do projeto Mentoria" title=" Landing page" src="./assets/mentoria.png" />
+## Image from the final project
+ <img alt="Print Mentoria Formulário" title=" Landing page" src="./assets/mentoria.png" />
 
 
-## 🧪 Tecnologias
+## 🧪 Tools
 
-Aplicação desenvolvida usando as seguintes tecnologias:
+Application developed using the following tools:
 
 - [HTML5](https://www.w3schools.com/html/default.asp)
 - [CSS3](https://www.w3schools.com/css/default.asp)
 
-## 🚀 Iniciar Projeto
+## 🚀 Getting started
 
-Live server com VScode ou apenas clonar pasta e acessar o index.html
+Live server with VScode or just clone folder and access index.html
 
-### Programas necessários para iniciar projeto
+### Programs needed to Getting started
 
 - [Live Server (Opcional)](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [Visual Studio Code - Vscode](https://code.visualstudio.com/)
 
-Clone o projeto e acesso a pasta.
+Clone the project and access the folder.
 
 ```bash
 $ git clone https://github.com/felipe-gomes-vicente/mentoria-formulario.git
 $ cd mentoria-formulario
 ```
 
-## 📝 Licença
+## 📝 License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is under the MIT license. See the file [LICENSE](LICENSE.md) for more details.
 
 ---
 
 &nbsp;
 
-<p align="center">Feito com 💜 by Felipe Vicente👋</p>
+<p align="center">Done with 💜 by Felipe Vicente👋</p>
 
-- ## Meu LinkedIn - [![Linkedin Badge](https://img.shields.io/badge/-FelipeVicente-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-gomes-vicente/)](https://www.linkedin.com/in/felipe-gomes-vicente/)
+- ## My LinkedIn - [![Linkedin Badge](https://img.shields.io/badge/-FelipeVicente-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-gomes-vicente/)](https://www.linkedin.com/in/felipe-gomes-vicente/)
